@@ -1,0 +1,61 @@
+
+    <form action="">
+        <label for="NAME">ENTER YOUR NAME:</label>
+        <input type="NAME"id="NAME"placeholder="FIRST NAME">
+        <input type="NAME"id="NAME"placeholder="LAST NAME">
+        <br>
+        <br>
+        GENDER:<!DOCTYPE html>
+<html>
+<head>
+    <title>TTD DARSHAN</title>
+</head>
+<body>
+    <center><H1>TTD DARSHAN BOOKING</H1></center>
+    <H3><center><P><I>-------OM NAMO VENKATESAYA-------</I></P></center></H3>
+    <HR></HR>
+        MALE<input type="radio"name="GENDER">
+        FEMALE<input type="radio"name="GENDER">
+        OTHER<input type="radio"name="GENDER">
+        <br>
+        <br>
+        DATE OF BIRTH:
+        <input type="date">
+        <br>
+        <br>
+        MOBILE NUMBER:
+        <input type="number"placeholder="VALID NUMBER">
+        <br>
+        <br>
+        AADHAR NUMBER:
+        <input type="number"placeholder="12 DIGITS NUMBER">
+        <br>
+        <br>
+        ADDRESS:
+        <textarea name="" id="" cols="60" rows="5"></textarea>
+        <br>
+        <br>
+        COUNTRY:
+        <input type="text">
+        <br>
+        <br>
+        STATE:
+        <input type="text">
+        <br>
+        <br>
+        DISTRICT:
+        <input type="text">
+        <br>
+        <br>
+        PINCODE:
+        <input type="number">
+        <br>
+        <br>
+        <input type="RESET"VALUE="RESET">
+        <input type="submit"VALUE="SUBMIT">
+
+        
+
+    </form>
+</body>
+</html>
